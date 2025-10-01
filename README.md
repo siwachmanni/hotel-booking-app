@@ -34,15 +34,6 @@ cd backend
 npm install
 npm start
 
-Absolutely, Manish. Since your GitHub repo is now live and the homepage looks blank without a root-level README.md, let’s fix that cleanly so it reflects your Hotel Booking App.
-
-✅ Step-by-Step: Add a Root-Level README.md to GitHub
-🔹 Step 1: Create the File
-In your project root (hotel-booking-app/), create a new file named:
-README.md
-
-
-Use VS Code or Notepad++ and paste this content:
 # 🏨 Hotel Booking App
 
 A full-stack hotel booking system built with **React**, **Node.js**, and **Azure SQL**, designed for seamless booking management and scalable deployment.
